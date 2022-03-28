@@ -11,7 +11,6 @@
   inputs.src-flatty-0_2_0.ref   = "refs/tags/0.2.0";
   inputs.src-flatty-0_2_0.owner = "treeform";
   inputs.src-flatty-0_2_0.repo  = "flatty";
-  inputs.src-flatty-0_2_0.dir   = "";
   inputs.src-flatty-0_2_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
