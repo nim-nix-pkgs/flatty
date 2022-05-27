@@ -36,22 +36,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-flatty-master": "src-flatty-master"
+        "src-flatty-0_3_1": "src-flatty-0_3_1"
       }
     },
-    "src-flatty-master": {
+    "src-flatty-0_3_1": {
       "flake": false,
       "locked": {
-        "lastModified": 1653093944,
-        "narHash": "sha256-e6I440biMobmvqqnVFD6fsWy7tD5QFO8AxKKGB2dc+8=",
+        "lastModified": 1652768313,
+        "narHash": "sha256-kNix3EneVWnfNzometzRuq4feMqi7SNf1+jWJT5aOmk=",
         "owner": "treeform",
         "repo": "flatty",
-        "rev": "41252987a466245b28e332caa2861881cd50b54e",
+        "rev": "6991c44d939483d9745705c7bab0d59d93fd142b",
         "type": "github"
       },
       "original": {
         "owner": "treeform",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.3.1",
         "repo": "flatty",
         "type": "github"
       }
