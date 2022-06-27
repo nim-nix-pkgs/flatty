@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-flatty-master": "src-flatty-master"
+        "src-flatty-0_3_4": "src-flatty-0_3_4"
       }
     },
-    "src-flatty-master": {
+    "src-flatty-0_3_4": {
       "flake": false,
       "locked": {
         "lastModified": 1654756337,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "treeform",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.3.4",
         "repo": "flatty",
         "type": "github"
       }
